@@ -5,9 +5,10 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
-import Login from './components/login'; // Adjust import paths as needed
+import Login from './components/login'; 
 import Register from './components/register';
 import Dashboard from './components/dashboard';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
               <About />
               <Projects />
               <Contact />
+              <Footer />
             </div>
           }
         />
