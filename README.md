@@ -108,7 +108,7 @@ Meet the Team:
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License**. You can view the full license **[here](https://github.com/Gyan0706/LICENSE)**.  
+This project is licensed under the **MIT License**. You can view the full license **[here](https://github.com/Gyan0706/LoanGuru/blob/main/LICENSE)**.  
 
 ---
 
