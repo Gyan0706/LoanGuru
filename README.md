@@ -1,10 +1,10 @@
-# 🌟 Credit Score & Loan Eligibility Web Application 🌟  
+# 🚀 Credit Score & Loan Eligibility Web Application 💰 
 
 A web-based platform to streamline credit score calculation and loan eligibility assessment for users and financial institutions.  
 
 ---
 
-## 🚀 Project Overview  
+## 🔍 Project Overview  
 Banks and financial institutions face challenges in accurately evaluating customers' creditworthiness. This platform resolves the inefficiencies of manual credit scoring by leveraging secure web technologies and real-time insights.  
 
 ### **Key Features**  
